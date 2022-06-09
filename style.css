@@ -1,0 +1,21 @@
+.myImg{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+body{
+  font-family: monospace;
+  background-color: #C3DBD9;
+}
+h1, h2, h3{
+  color: #9C51E0;
+}
+hr{
+  border-style: none;
+  border-top: dotted 5px #B667F1;
+  width: 7%;
+
+}
